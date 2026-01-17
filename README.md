@@ -101,11 +101,11 @@ Run the Streamlit app:
 
 streamlit run gbv_advanced_dashboard.py
 
-**Team Members**
+## Team Members
 
-**Diane Mukakalisa** – Data Cleaning, Analytics, Dashboard Development
+## Diane Mukakalisa – Data Cleaning, Analytics, Dashboard Development
 
-**Disclaimer**
+##Disclaimer
 
 This dashboard is intended for internal and authorized use only. All sensitive GBV data has been anonymized and handled in accordance with data protection and ethical guidelines.
 
