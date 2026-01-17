@@ -103,7 +103,7 @@ streamlit run gbv_advanced_dashboard.py
 
 ---
 
-#PART 2: Short Demo Script (2 Minutes)
+# PART 2: Short Demo Script (2 Minutes)
 
 Short video available at: Watch Demo Video
 
