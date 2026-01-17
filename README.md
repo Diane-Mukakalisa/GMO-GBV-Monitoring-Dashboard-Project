@@ -85,6 +85,8 @@ The main output is an interactive GBV Monitoring Dashboard featuring:
 - **Local access:** http://localhost:8501  
 
 ---
+## Team Members
+Diane Mukakalisa – Data Cleaning, Analytics, Dashboard Development
 
 ## How to Run the Application Locally
 1. Clone the repository:
@@ -108,5 +110,4 @@ streamlit run gbv_advanced_dashboard.py
 Short video available at: Watch Demo Video
 
 This demonstration presents an interactive Gender-Based Violence (GBV) Monitoring Dashboard developed to support the Gender Monitoring Office in evidence-based monitoring and decision-making. The demo shows how GBV case data from 2022 to 2025 are consolidated into a single analytics platform to visualize trends over time, geographic distribution by district, hotspot identification using heatmaps, and case progress from reporting to referral and follow-up. Through key performance indicators and clear visualizations, the dashboard enables timely identification of high-risk districts, supports targeted interventions, improves coordination among stakeholders, and strengthens data-driven policy advocacy while ensuring ethical handling and confidentiality of sensitive GBV information nationwide
-
 
